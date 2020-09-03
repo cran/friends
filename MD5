@@ -1,0 +1,15 @@
+c9fd5b032f991bedf0af352b86a7ee2b *DESCRIPTION
+8fc0d8e1cf835e1670787e63b4801f78 *LICENSE
+2a207a9258970c0ae6ab72a3b0c2d1e4 *NAMESPACE
+df0b58d340a9c5f7aef8f273f0285167 *R/data.R
+31014d235e878e41bce74546c902ee9c *R/friends-package.R
+90f3a7daf738671b29d9785bd71515bf *README.md
+e854df2060da64fd0eff2080e707cd38 *data/friends.rda
+3678a7e86e9d3d8f02f0af6f57c18313 *data/friends_emotions.rda
+bfc451208ccc022d67d078fba4bc49d5 *data/friends_entities.rda
+f2e4db7b66ce6144f90301a0a531d998 *data/friends_info.rda
+adeebeccd32ab470ca8f9955ba1f836c *man/figures/README-pressure-1.png
+e092efda5c44753a3bff4cd0f472936e *man/friends.Rd
+f4412a61a7e149a43758f22ab01d8f4e *man/friends_emotions.Rd
+bc501adc08c20bcfa98ed6be5c2489e1 *man/friends_entities.Rd
+9658a6243dd9a836b781dcdfb6cdf097 *man/friends_info.Rd
